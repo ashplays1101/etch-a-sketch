@@ -1,1 +1,1 @@
-Simple Etch-a-Sketch program using HTML, CSS, and Javascript. Made to practice usage of flexbox and event listeners.
+Simple Etch-a-Sketch program using HTML, CSS, and Javascript. Made to practice usage of CSS grid and event listeners.
